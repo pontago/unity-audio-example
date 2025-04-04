@@ -41,7 +41,7 @@ Assets/Plugin/iOS/AudioManager.swift に配置。この Swift ファイルから
 
 audioStart 後、一定間隔で、latestInputAudioDbspl を呼び出すことで現在の音量を取得する。
 
-## Uniti のでも
+## Uniti のデモ
 
 - ButtonScript.cs で、Swift のオーディオを制御。
 - InputAudioVolume.cs で、latestInputAudioDbspl を取得・更新。
