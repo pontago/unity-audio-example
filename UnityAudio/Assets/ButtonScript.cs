@@ -27,6 +27,7 @@ public class ButtonScript : MonoBehaviour
             Debug.Log("Microphone not found");
         }
 #endif
+        return null;
     }
 
     // Update is called once per frame
